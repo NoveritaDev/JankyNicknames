@@ -1,0 +1,11 @@
+name: JankyNicknames
+version: 1.0
+author: Noverita
+main: me.Noverita.JankyNicknames.JankyNicknames
+api-version: 1.13
+commands:
+  rpname:
+    description: Lets you change your display name for RP reasons
+    usage: /rpname name
+    permission: jankynicknames.changename
+    default: true
